@@ -10,3 +10,13 @@
 1. Superfast
 2. High Availability
 3. Data loss
+
+## High Level Design
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
